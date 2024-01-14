@@ -1,5 +1,4 @@
-# FinalProject part 1
-
+# Lector_Facturas
 # Invoice Information Extractor
 
 <div align="center">
